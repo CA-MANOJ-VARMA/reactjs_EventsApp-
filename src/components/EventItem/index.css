@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.css-eachItem-container {
+  margin-right: 40px;
+}
+
+.css-button-itself {
+  background-color: transparent;
+  border-width: 0;
+}
+
+.css-button-itself:hover {
+  cursor: pointer;
+}
+
+.css-image-itself {
+  width: 300px;
+}

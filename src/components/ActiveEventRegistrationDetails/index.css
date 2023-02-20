@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.css-status-image-itself {
+  width: 300px;
+}
+
+.css-registerhere-button-itself {
+  background-color: blueviolet;
+  border-width: 0;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 10px;
+}

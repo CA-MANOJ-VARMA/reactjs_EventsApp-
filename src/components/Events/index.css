@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.css-bg-container {
+  display: flex;
+}
+
+.css-event-container {
+  width: 65%;
+  background-color: aquamarine;
+  padding: 30px;
+}
+
+.css-ul-container {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.css-status-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 35%;
+  padding-top: 30px;
+}
